@@ -3,7 +3,7 @@ Kodi 19 add on repository for kodi 21
 # 📡 Custom Proxy Repository Endpoint for Kodi 19 (Matrix)
 
 [![Kodi Version](https://img.shields.io/badge/Kodi-19.x%20Matrix-blue.svg)](https://kodi.tv)
-[![License](https://img.shields.io/badge/License-GPL--3.0--or--later-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://img.shields.io/badge/License-GPL--2.0--or--later-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![Mirror](https://img.shields.io/badge/Mirror-XMission-orange.svg)](https://mirrors.xmission.com)
 
 Este repositorio actúa como un **gestor de infraestructura híbrida (Proxy Endpoint)** diseñado específicamente para la rama de **Kodi 19 (Matrix)**. Su arquitectura desacopla el flujo de sincronización de metadatos del almacenamiento de binarios pesados, utilizando la red académica de alta velocidad de **XMission** y la red troncal oficial de Kodi.
